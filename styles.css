@@ -1,0 +1,8 @@
+body {
+    margin: 0;
+    background-color: white;
+}
+
+.card-header {
+    background: rgb(255, 209, 245);
+}
